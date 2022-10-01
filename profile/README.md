@@ -1,2 +1,2 @@
-# 8xOS
+# FooOS
 **WIP**
